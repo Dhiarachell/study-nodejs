@@ -1,0 +1,12 @@
+{
+  "name": "03-errors",
+  "version": "1.0.0",
+  "description": "Mungkin tidak perlu dijelaskan lebih jauh mengenai error. Yang pasti, error itu merupakan suatu kesalahan yang terjadi sehingga aplikasi tidak berjalan seperti yang diharapkan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
